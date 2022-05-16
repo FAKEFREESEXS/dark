@@ -27,7 +27,7 @@
                   src="@/assets/space.png"
                   alt="logo"
                 />
-                Rally
+                ONIkuma
               </div>
             </div>
             <div class="hidden md:flex items-center justify-center">
