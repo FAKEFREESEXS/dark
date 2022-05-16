@@ -245,7 +245,7 @@
           class="block w-full mt-1 text-sm dark:text-gray-300 dark:border-gray-600 dark:bg-gray-700 form-select focus:border-blue-400 focus:outline-none focus:shadow-outline-blue dark:focus:shadow-outline-gray"
           v-model="chartIdx"
         >
-          <option value="rly" selected="true">Rally</option>
+          <option value="rly" selected="true">ONIkuma</option>
           <option value="cc">{{ $t("dashboard.creatorCoin") }}</option>
         </select>
       </label>
