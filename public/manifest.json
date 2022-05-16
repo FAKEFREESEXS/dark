@@ -1,7 +1,7 @@
 {
-    "name": "rally-discordbot-dashboard",
-    "short_name": "rallybot-dashboard",
-    "description": "Dashboard for managing RallyRoleBot Discord Bot",
+    "name": "ONIkuma",
+    "short_name": "ONIkuma",
+    "description": "ONIkuma  Discord Bot",
     "lang": "en",
     "start_url": "/",
     "scope": "/",
