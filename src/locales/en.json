@@ -1,7 +1,7 @@
 {
     "landing": {
-        "main": "Creator Coin Discord Bot",
-        "sub": "Made with love by the Community"
+        "main": "ONIkuma Discord Bot",
+        "sub": "Made in Egypt"
     },
     "notFound": {
         "main": "Sorry, the page you are looking for could not be found",
@@ -98,6 +98,6 @@
         "terms": "Terms of Service",
         "policy": "Privacy Policy",
         "about": "About Us",
-        "love": "Made with ❤️ by the community"
+        "love": "Made in Egypt"
     }
 }
