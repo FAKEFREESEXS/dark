@@ -276,7 +276,7 @@
           <p class="text-xl mb-4">
             {{
               chartIdx === "rly"
-                ? "Rally " + $t("dashboard.marketCaps")
+                ? "ONIkuma " + $t("dashboard.marketCaps")
                 : coins[currentCoin].coinSymbol + " " + $t("dashboard.prices")
             }}
           </p>
@@ -299,7 +299,7 @@
           <p class="text-xl mb-4">
             {{
               chartIdx === "rly"
-                ? "Rally " + $t("dashboard.volumes")
+                ? "ONIkuma " + $t("dashboard.volumes")
                 : coins[currentCoin].coinSymbol + " " + $t("dashboard.rewards")
             }}
           </p>
@@ -319,7 +319,7 @@
         <div
           class="w-full bg-white rounded-lg shadow-md dark:bg-gray-800 p-4 mb-8 xl:mb-0"
         >
-          <p class="text-xl mb-4">Rally {{ $t("dashboard.prices") }}</p>
+          <p class="text-xl mb-4">ONIkuma {{ $t("dashboard.prices") }}</p>
           <div class="chart-area">
             <line-chart
               style="height: 100%"
